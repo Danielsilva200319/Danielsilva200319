@@ -13,8 +13,7 @@
 
 
 
-
-otro metodo de presentacion.
+*/otro metodo de presentacion.
 <div id="header" align="center">
   
   <!--img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/minion.png' width='300"'-->
@@ -57,4 +56,4 @@ otro metodo de presentacion.
 <br><br>
 
 <p><b>My motivation</b>: <i>"Later is never"</i></p>
-<br><br>
+<br><br>/*
