@@ -20,7 +20,7 @@ otro metodo de presentacion.
   <!--img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/minion.png' width='300"'-->
   
 </div>
-<img align='center' src="https://readme-typing-svg.herokuapp.com?color=EC3B2D&lines=Hello!+I+am+Daniel Silva" width="100%">
+<img align='center' src="https://readme-typing-svg.herokuapp.com?color=EC3B2D&lines=Hello!+I+am+shiro" width="100%">
 
 
 <p>I love technology, especially <b>computer science</b>, cloud computing, software engineering, and creating automation tools for Linux and networking.</p>
