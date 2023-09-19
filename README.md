@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Stiven Silva Guerrero</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
-<img src="https://i.pinimg.com/originals/9e/c1/48/9ec1484b8b6058006fdaec93a433e23b.jpg" alt="anime">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniel silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel silva" height="30" width="40" /></a>
