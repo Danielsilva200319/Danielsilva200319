@@ -6,6 +6,8 @@
 
 ###
 
+<h3 align="left">👩‍💻  About Me</h3>
+
 <p align="left">👋 Hi, I’m Daniel Stiven Silva<br>👀 Estoy interesado en programar y todo sobre robotica, informatica, etc.<br>🌱 Actualmente estoy aprendiendo programacion<br>💞️ Me gusta mucho la programacion y el enfoque en la tecnolgia<br>📫 Cómo contactarme por mi correo: silvaguerrerodanielstiven@gmail.com</p>
 
 ###
@@ -18,6 +20,7 @@
 </div>
 
 ###
+<h3 align="left">🛠 Language and tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
