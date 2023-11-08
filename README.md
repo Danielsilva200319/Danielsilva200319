@@ -8,7 +8,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">👋 Hi, I’m Daniel Stiven Silva<br>👀 Estoy interesado en programar y todo sobre robotica, informatica, etc.<br>🌱 Actualmente estoy aprendiendo programacion<br>💞️ Me gusta mucho la programacion y el enfoque en la tecnolgia<br>📫 Cómo contactarme por mi correo: silvaguerrerodanielstiven@gmail.com</p>
+<p align="left">👋 Hi, I’m Daniel Stiven Silva<br>👀 I am interested in programming and everything about robotics, computing, etc.<br>🌱 I am currently learning programming<br>💞️ I really like programming and the focus on technology.<br>📫 How to contact me by email: silvaguerrerodanielstiven@gmail.com</p>
 
 ###
 
