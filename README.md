@@ -53,8 +53,6 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=ae" height="35" alt="adobeaftereffects logo"  />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="35" alt="powershell logo"  />
-  <img width="14" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="microsoftsqlserver logo"  />
