@@ -103,6 +103,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Danielsilva200319/Danielsilva200319/output/snake.svg" alt="Snake animation" />
-
 ###
