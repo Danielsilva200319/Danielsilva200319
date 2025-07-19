@@ -29,8 +29,6 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
-  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
@@ -64,8 +62,6 @@
   <img src="https://cdn.simpleicons.org/nuget/004880" height="35" alt="nuget logo"  />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="35" alt="postman logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="35" alt="android logo"  />
 </div>
 
 ###
